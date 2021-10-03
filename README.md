@@ -1,6 +1,6 @@
 ## After Cloning the repo, do the following:
 
-- `cd react-weekly-exercises`
+- `cd react-workshop-exercises`
 - `npm install`
 
 ## To run the project
