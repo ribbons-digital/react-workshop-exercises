@@ -1,7 +1,7 @@
 import * as React from "react";
 
-function Display() {
-  return <div>I display text</div>;
+function Display({ displayedText }) {
+  return <div>{displayedText}</div>;
 }
 
 export default Display;

@@ -1,7 +1,9 @@
 import * as React from "react";
+import { TextContext } from "../solution/Exercise";
 
 function Display() {
-  return <div>The text should display here</div>;
+  const { displayedText } = React.useContext(TextContext);
+  return <div>{displayedText}</div>;
 }
 
 export default Display;
