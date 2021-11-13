@@ -1,4 +1,4 @@
-import Exercise from "./04102021/exercise-1/Exercise";
+import Exercise from "./19102021/exercise-3/solution/Exercise";
 import "./App.css";
 
 /*

@@ -40,3 +40,19 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+.navbar {
+  margin-bottom: 15px;
+}
+
+.navbar a {
+  color: #000;
+  padding: 6px 12px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.navbar .active {
+  color: #50fa7b;
+  border: 2px solid #50fa7b;
+}
